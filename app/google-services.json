@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1060490253153",
+    "firebase_url": "https://mercadito-nld-default-rtdb.firebaseio.com",
+    "project_id": "mercadito-nld",
+    "storage_bucket": "mercadito-nld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060490253153:android:93ab86c658bf53f90cab20",
+        "android_client_info": {
+          "package_name": "com.example.mercaditonld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060490253153-tddda21rnrchrc4cv7tb0telv3oldmgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzKW0qxDyCLMOKcidKvUs7qbgwIuyBN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060490253153-tddda21rnrchrc4cv7tb0telv3oldmgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060490253153:android:34e866e0a112b0a20cab20",
+        "android_client_info": {
+          "package_name": "com.example.mercaditonld2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060490253153-tddda21rnrchrc4cv7tb0telv3oldmgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzKW0qxDyCLMOKcidKvUs7qbgwIuyBN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060490253153-tddda21rnrchrc4cv7tb0telv3oldmgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

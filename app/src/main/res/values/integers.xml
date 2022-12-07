@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="counte_max_title">50</integer>
+    <integer name="counter_max_description">200</integer>
+    <integer name="lines_description">4</integer>
+</resources>
